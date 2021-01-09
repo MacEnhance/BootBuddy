@@ -1,4 +1,4 @@
-# Boot Buddy
+# BootBuddy
 
 This application allows you to control the boot screen of modern macs.
 
@@ -7,23 +7,22 @@ This application allows you to control the boot screen of modern macs.
 ### Information
 
  -  This should work on macOS 10.14 and above on all macs. 
- -  Submit a report [here](https://github.com/w0lfschild/DarkBoot/issues/new) if it does not.
+ -  Submit a report [here](https://github.com/MacEnhance/BootBuddy/issues/new) if it does not.
 
 ### How to use
 
- -  Download the latest release: [here](https://github.com/w0lfschild/app_updates/tree/master/BootBuddy)
+ -  Download the latest release: [here](https://github.com/MacEnhance/appcast/raw/master/BootBuddy.zip)
  -  Unzip the download
- -  Open `Boot Buddy.app`
+ -  Open `BootBuddy.app`
  -  Select the color you would like your boot screen to be and press Apply
  -  Enter your admin password and press OK
  -  **Reboot**
  
- ### Options
+### Options
 
  -  Boot Color
- -  Boot Image
  -  Login Screen Image
- -  Lock Screen Image and Text
+ -  Recovery Boot
  -  Verbose Boot
  -  Safe Mode Boot
  -  Single User Mode
