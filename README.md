@@ -1,6 +1,6 @@
 # BootBuddy
 
-This application allows you to control the boot screen of modern macs.
+This application allows you to control the boot screen of Intel macs.
 
 ![Preview](preview.png)
 
